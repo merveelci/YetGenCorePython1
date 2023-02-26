@@ -1,0 +1,2 @@
+# YetGenCorePython1
+görevler
